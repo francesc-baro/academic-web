@@ -46,15 +46,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/francesc_baro
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=8IbleLsAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
+- icon: researchgate
+  icon_pack: ai
   link: https://www.researchgate.net/profile/Francesc-Baro-2
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/francescbaro
+  link: http://www.linkedin.com/in/francescbaro
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
